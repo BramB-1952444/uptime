@@ -4,18 +4,19 @@
     "url": "https://bramboeckx.me",
     "icon": "https://favicons.githubusercontent.com/bramboeckx.me",
     "slug": "bramboeckx-me",
-    "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
-    "time": 984,
-    "timeDay": 692,
-    "timeWeek": 984,
-    "timeMonth": 984,
-    "timeYear": 984,
+    "status": "down",
+    "uptime": "97.80%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "97.80%",
+    "time": 1205,
+    "timeDay": 2054,
+    "timeWeek": 1205,
+    "timeMonth": 1205,
+    "timeYear": 1205,
     "dailyMinutesDown": {
+      "2022-01-31": 1,
       "2022-01-26": 152
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://plex.bramboeckx.me",
     "icon": "https://favicons.githubusercontent.com/plex.bramboeckx.me",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 954,
-    "timeDay": 929,
-    "timeWeek": 954,
-    "timeMonth": 954,
-    "timeYear": 954,
+    "time": 1022,
+    "timeDay": 1248,
+    "timeWeek": 1022,
+    "timeMonth": 1022,
+    "timeYear": 1022,
     "dailyMinutesDown": {
+      "2022-01-31": 1,
       "2022-01-28": 4
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://drank.jowile.be",
     "icon": "https://favicons.githubusercontent.com/drank.jowile.be",
     "slug": "drank-jowile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +57,8 @@
     "timeWeek": 827,
     "timeMonth": 827,
     "timeYear": 827,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-31": 0
+    }
   }
 ]
