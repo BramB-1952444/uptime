@@ -4,13 +4,13 @@ repo: uptime # The name of this repository
 
 sites:
   - name: bramboeckx.me
-    url: https://bramboeckx.me
+    url: https://bramboeckx.be
   - name: Plex
-    url: https://plex.bramboeckx.me
+    url: https://plex.bramboeckx.be
   - name: Drank jowile
     url: https://drank.jowile.be
   - name: status
-    url: https://status.bramboeckx.me
+    url: https://status.bramboeckx.be
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
