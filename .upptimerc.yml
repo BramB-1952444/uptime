@@ -11,6 +11,8 @@ sites:
     url: https://drank.jowile.be
   - name: status
     url: https://status.bramboeckx.be
+  - name: Blackangusbelgium
+    url: https://blackangusbelgium.be/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
