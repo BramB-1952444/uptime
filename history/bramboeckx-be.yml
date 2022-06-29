@@ -1,7 +1,7 @@
 url: https://bramboeckx.be
-status: up
-code: 200
-responseTime: 85
-lastUpdated: 2022-06-29T08:58:27.538Z
+status: down
+code: 403
+responseTime: 204
+lastUpdated: 2022-06-29T11:44:12.288Z
 startTime: Fri Jun 24 2022 07:43:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
