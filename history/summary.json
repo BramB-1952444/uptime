@@ -119,9 +119,9 @@
     "url": "https://drank.jowile.be",
     "icon": "https://icons.duckduckgo.com/ip3/drank.jowile.be.ico",
     "slug": "drank-jowile",
-    "status": "up",
+    "status": "down",
     "uptime": "95.61%",
-    "uptimeDay": "95.65%",
+    "uptimeDay": "95.64%",
     "uptimeWeek": "90.70%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "95.61%",
@@ -190,7 +190,7 @@
     "timeMonth": 0,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2023-01-01": 171,
+      "2023-01-01": 501,
       "2022-12-31": 2915,
       "2022-12-30": 2276,
       "2022-12-27": 2540,
@@ -461,7 +461,7 @@
       "2022-02-11": 22,
       "2022-02-10": 31,
       "2022-02-07": 32,
-      "2022-01-31": 441
+      "2022-01-31": 191
     }
   },
   {
@@ -470,18 +470,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackangusbelgium.be.ico",
     "slug": "blackangusbelgium",
     "status": "down",
-    "uptime": "95.74%",
+    "uptime": "95.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.79%",
-    "uptimeMonth": "81.05%",
-    "uptimeYear": "95.74%",
+    "uptimeWeek": "75.15%",
+    "uptimeMonth": "80.68%",
+    "uptimeYear": "95.68%",
     "time": 2067,
     "timeDay": 666,
     "timeWeek": 1711,
     "timeMonth": 2514,
     "timeYear": 2067,
     "dailyMinutesDown": {
-      "2023-01-01": 64,
+      "2023-01-01": 229,
       "2022-12-31": 1440,
       "2022-12-30": 836,
       "2022-12-06": 1025,
