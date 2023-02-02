@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.bramboeckx.be.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "87.43%",
+    "uptime": "87.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.63%",
@@ -199,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2023-02-02": 645,
+      "2023-02-02": 753,
       "2023-02-01": 1642,
       "2023-01-31": 1562,
       "2023-01-25": 1517,
@@ -427,8 +427,7 @@
       "2022-06-21": 1467,
       "2022-06-20": 1578,
       "2022-06-22": 193,
-      "2022-06-19": 539,
-      "2022-06-17": 19
+      "2022-06-19": 539
     }
   },
   {
@@ -436,17 +435,17 @@
     "url": "https://blackangusbelgium.be/",
     "icon": "https://icons.duckduckgo.com/ip3/blackangusbelgium.be.ico",
     "slug": "blackangusbelgium",
-    "status": "up",
+    "status": "down",
     "uptime": "95.08%",
-    "uptimeDay": "87.83%",
+    "uptimeDay": "87.81%",
     "uptimeWeek": "97.16%",
-    "uptimeMonth": "94.97%",
+    "uptimeMonth": "95.22%",
     "uptimeYear": "95.08%",
-    "time": 3159,
-    "timeDay": 9862,
-    "timeWeek": 6809,
-    "timeMonth": 5734,
-    "timeYear": 3159,
+    "time": 3197,
+    "timeDay": 10001,
+    "timeWeek": 6931,
+    "timeMonth": 5831,
+    "timeYear": 3197,
     "dailyMinutesDown": {
       "2023-02-02": 63,
       "2023-02-01": 202,
