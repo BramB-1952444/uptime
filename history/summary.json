@@ -199,6 +199,7 @@
     "timeMonth": 0,
     "timeYear": 164,
     "dailyMinutesDown": {
+      "2023-02-02": 172,
       "2023-02-01": 1642,
       "2023-01-31": 1562,
       "2023-01-25": 1517,
@@ -248,7 +249,6 @@
       "2022-06-29": 1504,
       "2022-06-24": 1969,
       "2022-06-23": 2117,
-      "2023-02-02": 59,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -428,8 +428,7 @@
       "2022-06-20": 1578,
       "2022-06-22": 193,
       "2022-06-19": 539,
-      "2022-06-17": 38,
-      "2022-06-03": 21
+      "2022-06-17": 38
     }
   },
   {
@@ -437,18 +436,19 @@
     "url": "https://blackangusbelgium.be/",
     "icon": "https://icons.duckduckgo.com/ip3/blackangusbelgium.be.ico",
     "slug": "blackangusbelgium",
-    "status": "up",
+    "status": "down",
     "uptime": "95.09%",
-    "uptimeDay": "90.02%",
+    "uptimeDay": "90.82%",
     "uptimeWeek": "97.79%",
-    "uptimeMonth": "93.93%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "95.09%",
-    "time": 2805,
-    "timeDay": 7347,
-    "timeWeek": 5835,
-    "timeMonth": 4893,
-    "timeYear": 2805,
+    "time": 2836,
+    "timeDay": 7642,
+    "timeWeek": 5957,
+    "timeMonth": 4985,
+    "timeYear": 2836,
     "dailyMinutesDown": {
+      "2023-02-02": 0,
       "2023-02-01": 202,
       "2023-01-31": 21,
       "2023-01-25": 16,
