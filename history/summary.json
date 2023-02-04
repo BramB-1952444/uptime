@@ -191,7 +191,7 @@
     "slug": "status",
     "status": "down",
     "uptime": "96.89%",
-    "uptimeDay": "91.71%",
+    "uptimeDay": "92.42%",
     "uptimeWeek": "92.53%",
     "uptimeMonth": "97.63%",
     "uptimeYear": "96.89%",
@@ -248,7 +248,7 @@
       "2022-08-02": 16,
       "2022-07-27": 36,
       "2022-07-26": 19,
-      "2022-07-01": 34
+      "2022-07-01": 17
     }
   },
   {
@@ -256,17 +256,17 @@
     "url": "https://blackangusbelgium.be/",
     "icon": "https://icons.duckduckgo.com/ip3/blackangusbelgium.be.ico",
     "slug": "blackangusbelgium",
-    "status": "up",
+    "status": "down",
     "uptime": "95.04%",
-    "uptimeDay": "91.71%",
+    "uptimeDay": "92.42%",
     "uptimeWeek": "94.31%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "95.04%",
-    "time": 3577,
-    "timeDay": 3384,
-    "timeWeek": 6160,
-    "timeMonth": 5646,
-    "timeYear": 3577,
+    "time": 3573,
+    "timeDay": 3354,
+    "timeWeek": 6130,
+    "timeMonth": 5625,
+    "timeYear": 3573,
     "dailyMinutesDown": {
       "2023-02-04": 68,
       "2023-02-03": 165,
