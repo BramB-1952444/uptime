@@ -1,7 +1,7 @@
 url: https://plex.bramboeckx.be
-status: up
-code: 200
-responseTime: 4196
-lastUpdated: 2023-10-01T20:42:13.250Z
+status: down
+code: 530
+responseTime: 3218
+lastUpdated: 2023-10-01T20:56:42.996Z
 startTime: 2022-01-26T19:13:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
