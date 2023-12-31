@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 527,
-    "timeWeek": 267,
-    "timeMonth": 319,
+    "time": 227,
+    "timeDay": 203,
+    "timeWeek": 278,
+    "timeMonth": 316,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.bramboeckx.be.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.05%",
-    "time": 1828,
-    "timeDay": 1627,
-    "timeWeek": 2038,
-    "timeMonth": 2105,
+    "time": 1829,
+    "timeDay": 1204,
+    "timeWeek": 2063,
+    "timeMonth": 2094,
     "timeYear": 1882,
     "dailyMinutesDown": {
       "2023-12-28": 19,
@@ -84,8 +84,7 @@
       "2023-01-25": 39,
       "2023-01-20": 21,
       "2023-01-12": 23,
-      "2023-01-05": 17,
-      "2022-12-31": 15
+      "2023-01-05": 17
     }
   },
   {
@@ -99,11 +98,11 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.08%",
-    "time": 2260,
-    "timeDay": 920,
-    "timeWeek": 2951,
-    "timeMonth": 3281,
-    "timeYear": 2486,
+    "time": 2266,
+    "timeDay": 6361,
+    "timeWeek": 3423,
+    "timeMonth": 3336,
+    "timeYear": 2494,
     "dailyMinutesDown": {
       "2023-12-26": 49,
       "2023-12-12": 17,
@@ -161,8 +160,7 @@
       "2023-01-11": 25,
       "2023-01-06": 22,
       "2023-01-05": 24,
-      "2023-01-01": 61,
-      "2022-12-31": 20
+      "2023-01-01": 61
     }
   },
   {
@@ -171,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.bramboeckx.be.ico",
     "slug": "status",
     "status": "down",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.36%",
@@ -259,16 +257,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackangusbelgium.be.ico",
     "slug": "blackangusbelgium",
     "status": "up",
-    "uptime": "93.49%",
+    "uptime": "93.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.88%",
-    "time": 3038,
-    "timeDay": 195,
-    "timeWeek": 261,
-    "timeMonth": 391,
-    "timeYear": 3141,
+    "uptimeYear": "92.05%",
+    "time": 3035,
+    "timeDay": 318,
+    "timeWeek": 286,
+    "timeMonth": 389,
+    "timeYear": 3144,
     "dailyMinutesDown": {
       "2023-10-30": 16,
       "2023-07-02": 70,
@@ -325,8 +323,7 @@
       "2023-01-04": 23,
       "2023-01-03": 1017,
       "2023-01-02": 1440,
-      "2023-01-01": 1440,
-      "2022-12-31": 1440
+      "2023-01-01": 1440
     }
   }
 ]
