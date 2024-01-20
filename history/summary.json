@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 309,
-    "timeWeek": 282,
-    "timeMonth": 255,
-    "timeYear": 238,
+    "timeDay": 148,
+    "timeWeek": 273,
+    "timeMonth": 252,
+    "timeYear": 239,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.03%",
     "time": 1796,
-    "timeDay": 1132,
-    "timeWeek": 2513,
-    "timeMonth": 2163,
-    "timeYear": 1932,
+    "timeDay": 730,
+    "timeWeek": 2459,
+    "timeMonth": 2149,
+    "timeYear": 1931,
     "dailyMinutesDown": {
       "2024-01-04": 49,
       "2023-12-31": 87,
@@ -83,8 +83,7 @@
       "2023-02-07": 37,
       "2023-02-02": 36,
       "2023-01-31": 63,
-      "2023-01-25": 39,
-      "2023-01-20": 21
+      "2023-01-25": 39
     }
   },
   {
@@ -93,18 +92,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/drank.jowile.be.ico",
     "slug": "drank-jowile",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "99.09%",
+    "uptime": "99.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.05%",
-    "time": 2388,
-    "timeDay": 893,
-    "timeWeek": 2667,
-    "timeMonth": 3157,
-    "timeYear": 2502,
+    "time": 2393,
+    "timeDay": 2657,
+    "timeWeek": 2617,
+    "timeMonth": 3221,
+    "timeYear": 2509,
     "dailyMinutesDown": {
-      "2024-01-19": 7,
       "2024-01-16": 152,
       "2024-01-15": 24,
       "2024-01-04": 80,
@@ -159,8 +157,7 @@
       "2023-02-07": 44,
       "2023-02-02": 43,
       "2023-01-31": 38,
-      "2023-01-25": 22,
-      "2023-01-20": 21
+      "2023-01-25": 22
     }
   },
   {
@@ -169,18 +166,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.bramboeckx.be.ico",
     "slug": "status",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.73%",
+    "uptime": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-19": 7,
       "2024-01-16": 152,
       "2024-01-15": 24,
       "2024-01-04": 129,
@@ -228,7 +224,7 @@
       "2023-06-20": 534,
       "2023-06-19": 516,
       "2023-06-12": 34,
-      "2023-06-06": 22
+      "2023-06-06": 100
     }
   },
   {
@@ -237,16 +233,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackangusbelgium.be.ico",
     "slug": "blackangusbelgium",
     "status": "up",
-    "uptime": "93.72%",
+    "uptime": "93.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.05%",
-    "time": 2991,
-    "timeDay": 187,
-    "timeWeek": 234,
-    "timeMonth": 253,
-    "timeYear": 3078,
+    "time": 2990,
+    "timeDay": 238,
+    "timeWeek": 245,
+    "timeMonth": 251,
+    "timeYear": 3073,
     "dailyMinutesDown": {
       "2023-10-30": 16,
       "2023-07-02": 70,
