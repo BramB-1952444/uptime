@@ -5,12 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: bramboeckx.be
     url: https://bramboeckx.be
-  - name: Plex
-    url: https://plex.bramboeckx.be
   - name: Drank jowile
     url: https://drank.jowile.be
-  - name: status
-    url: https://status.bramboeckx.be
   - name: Blackangusbelgium
     url: https://blackangusbelgium.be/
 
