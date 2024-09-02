@@ -6,35 +6,33 @@
     "slug": "bramboeckx-be",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 260,
     "timeWeek": 241,
     "timeMonth": 215,
     "timeYear": 240,
-    "dailyMinutesDown": {
-      "2024-09-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Drank jowile",
     "url": "https://drank.jowile.be",
     "icon": "https://icons.duckduckgo.com/ip3/drank.jowile.be.ico",
     "slug": "drank-jowile",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "94.76%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "94.75%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.39%",
-    "time": 3079,
+    "time": 3082,
     "timeDay": 6477,
     "timeWeek": 4345,
-    "timeMonth": 3734,
-    "timeYear": 3232,
+    "timeMonth": 3772,
+    "timeYear": 3236,
     "dailyMinutesDown": {
       "2024-09-02": 76,
       "2024-08-29": 21,
@@ -92,8 +90,7 @@
       "2023-10-29": 67,
       "2023-10-27": 26,
       "2023-10-24": 21,
-      "2023-10-23": 46,
-      "2023-10-17": 33
+      "2023-10-23": 46
     }
   },
   {
