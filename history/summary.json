@@ -4,19 +4,19 @@
     "url": "https://bramboeckx.be",
     "icon": "https://icons.duckduckgo.com/ip3/bramboeckx.be.ico",
     "slug": "bramboeckx-be",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 284,
-    "timeWeek": 245,
+    "time": 235,
+    "timeDay": 260,
+    "timeWeek": 241,
     "timeMonth": 215,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-09-02": 0
+      "2024-09-02": 7
     }
   },
   {
