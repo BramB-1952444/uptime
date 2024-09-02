@@ -22,8 +22,8 @@
     "url": "https://drank.jowile.be",
     "icon": "https://icons.duckduckgo.com/ip3/drank.jowile.be.ico",
     "slug": "drank-jowile",
-    "status": "up",
-    "uptime": "99.76%",
+    "status": "down",
+    "uptime": "99.77%",
     "uptimeDay": "98.74%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.06%",
@@ -93,7 +93,7 @@
       "2023-10-23": 46,
       "2023-10-17": 33,
       "2023-10-13": 24,
-      "2023-10-11": 30
+      "2023-10-11": 15
     }
   },
   {
