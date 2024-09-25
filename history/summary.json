@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 73,
-    "timeWeek": 161,
+    "timeDay": 177,
+    "timeWeek": 150,
     "timeMonth": 186,
-    "timeYear": 239,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,17 @@
     "slug": "drank-jowile",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "93.48%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.45%",
     "time": 3279,
-    "timeDay": 5495,
-    "timeWeek": 4504,
-    "timeMonth": 4062,
+    "timeDay": 4408,
+    "timeWeek": 4174,
+    "timeMonth": 4060,
     "timeYear": 3354,
     "dailyMinutesDown": {
-      "2024-09-24": 74,
+      "2024-09-24": 67,
       "2024-09-23": 20,
       "2024-09-18": 22,
       "2024-09-17": 15,
@@ -89,7 +89,7 @@
       "2024-02-04": 50,
       "2024-02-02": 71,
       "2024-01-21": 17,
-      "2024-01-16": 20
+      "2024-01-16": 35
     }
   },
   {
@@ -104,10 +104,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 263,
-    "timeDay": 101,
-    "timeWeek": 194,
-    "timeMonth": 205,
-    "timeYear": 244,
+    "timeDay": 213,
+    "timeWeek": 184,
+    "timeMonth": 207,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2024-09-20": 18,
       "2023-10-30": 16
