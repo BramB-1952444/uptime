@@ -24,17 +24,17 @@
     "slug": "drank-jowile",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "71.48%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "71.97%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "99.44%",
     "time": 3473,
     "timeDay": 3786,
     "timeWeek": 3906,
     "timeMonth": 4167,
     "timeYear": 3485,
     "dailyMinutesDown": {
-      "2024-11-03": 411,
+      "2024-11-03": 404,
       "2024-11-02": 47,
       "2024-11-01": 16,
       "2024-10-28": 47,
@@ -91,7 +91,7 @@
       "2024-05-04": 98,
       "2024-05-02": 34,
       "2024-04-23": 19,
-      "2024-04-04": 43
+      "2024-04-04": 75
     }
   },
   {
