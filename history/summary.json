@@ -22,9 +22,9 @@
     "url": "https://drank.jowile.be",
     "icon": "https://icons.duckduckgo.com/ip3/drank.jowile.be.ico",
     "slug": "drank-jowile",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "54.53%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "54.52%",
     "uptimeWeek": "92.41%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "99.43%",
@@ -89,7 +89,7 @@
       "2024-06-04": 28,
       "2024-06-03": 40,
       "2024-05-20": 30,
-      "2024-05-04": 65
+      "2024-05-04": 21
     }
   },
   {
