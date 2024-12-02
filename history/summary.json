@@ -22,18 +22,19 @@
     "url": "https://drank.jowile.be",
     "icon": "https://icons.duckduckgo.com/ip3/drank.jowile.be.ico",
     "slug": "drank-jowile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "97.70%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "99.40%",
-    "time": 3506,
+    "time": 3499,
     "timeDay": 1053,
     "timeWeek": 2325,
-    "timeMonth": 3815,
+    "timeMonth": 3802,
     "timeYear": 3577,
     "dailyMinutesDown": {
+      "2024-12-02": 0,
       "2024-11-27": 23,
       "2024-11-17": 120,
       "2024-11-11": 25,
@@ -89,7 +90,7 @@
       "2024-06-23": 72,
       "2024-06-18": 169,
       "2024-06-14": 16,
-      "2024-06-10": 85
+      "2024-06-10": 69
     }
   },
   {
