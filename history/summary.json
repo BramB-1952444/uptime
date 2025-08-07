@@ -45,7 +45,7 @@
     "timeDay": 504,
     "timeWeek": 524,
     "timeMonth": 578,
-    "timeYear": 2525,
+    "timeYear": 2528,
     "dailyMinutesDown": {
       "2025-05-07": 1125,
       "2025-05-06": 1440,
@@ -104,18 +104,19 @@
     "url": "https://blackangusbelgium.be/",
     "icon": "https://icons.duckduckgo.com/ip3/blackangusbelgium.be.ico",
     "slug": "blackangusbelgium",
-    "status": "up",
+    "status": "down",
     "uptime": "96.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 254,
-    "timeDay": 368,
-    "timeWeek": 449,
-    "timeMonth": 311,
+    "timeDay": 351,
+    "timeWeek": 435,
+    "timeMonth": 312,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2025-08-07": 0,
       "2024-10-17": 19,
       "2024-09-20": 18
     }
