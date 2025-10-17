@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.99%",
     "time": 204,
-    "timeDay": 296,
+    "timeDay": 232,
     "timeWeek": 204,
-    "timeMonth": 199,
+    "timeMonth": 200,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-04-22": 687,
@@ -43,9 +43,9 @@
     "uptimeYear": "97.72%",
     "time": 2148,
     "timeDay": 639,
-    "timeWeek": 639,
-    "timeMonth": 626,
-    "timeYear": 1552,
+    "timeWeek": 645,
+    "timeMonth": 628,
+    "timeYear": 1543,
     "dailyMinutesDown": {
       "2025-09-20": 516,
       "2025-09-19": 627,
@@ -80,19 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackangusbelgium.be.ico",
     "slug": "blackangusbelgium",
     "status": "up",
-    "uptime": "97.00%",
+    "uptime": "97.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 272,
-    "timeDay": 590,
-    "timeWeek": 565,
-    "timeMonth": 419,
+    "time": 273,
+    "timeDay": 675,
+    "timeWeek": 592,
+    "timeMonth": 420,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-08-07": 18,
-      "2024-10-17": 19
+      "2025-08-07": 18
     }
   }
 ]
