@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bramboeckx.be.ico",
     "slug": "bramboeckx-be",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.99%",
     "time": 206,
-    "timeDay": 188,
-    "timeWeek": 248,
-    "timeMonth": 221,
-    "timeYear": 209,
+    "timeDay": 285,
+    "timeWeek": 250,
+    "timeMonth": 222,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2025-04-22": 687,
       "2025-04-21": 1440,
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.76%",
-    "time": 1823,
-    "timeDay": 538,
-    "timeWeek": 713,
-    "timeMonth": 653,
-    "timeYear": 1251,
+    "time": 1821,
+    "timeDay": 1075,
+    "timeWeek": 767,
+    "timeMonth": 663,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2025-09-20": 516,
       "2025-09-19": 627,
@@ -64,8 +64,7 @@
       "2024-11-11": 25,
       "2024-11-05": 16,
       "2024-11-04": 375,
-      "2024-11-03": 404,
-      "2024-11-02": 47
+      "2024-11-03": 404
     }
   },
   {
@@ -80,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 261,
-    "timeWeek": 410,
-    "timeMonth": 454,
+    "timeDay": 374,
+    "timeWeek": 407,
+    "timeMonth": 456,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2025-08-07": 18
