@@ -1,7 +1,7 @@
 url: https://blackangusbelgium.be/
-status: up
-code: 200
-responseTime: 223
-lastUpdated: 2026-03-14T22:47:41.555Z
+status: down
+code: 503
+responseTime: 268
+lastUpdated: 2026-03-14T23:02:34.087Z
 startTime: 2022-06-19T15:01:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
