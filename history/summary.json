@@ -6,14 +6,14 @@
     "slug": "bramboeckx-be",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "96.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "97.12%",
     "time": 221,
-    "timeDay": 227,
-    "timeWeek": 300,
-    "timeMonth": 219,
+    "timeDay": 212,
+    "timeWeek": 315,
+    "timeMonth": 224,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-04-10": 48,
@@ -28,8 +28,7 @@
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440
+      "2025-04-13": 1440
     }
   },
   {
@@ -44,9 +43,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.98%",
     "time": 668,
-    "timeDay": 770,
-    "timeWeek": 628,
-    "timeMonth": 634,
+    "timeDay": 596,
+    "timeWeek": 636,
+    "timeMonth": 636,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2026-03-08": 27,
@@ -73,9 +72,9 @@
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.90%",
     "time": 379,
-    "timeDay": 553,
-    "timeWeek": 505,
-    "timeMonth": 524,
+    "timeDay": 474,
+    "timeWeek": 487,
+    "timeMonth": 525,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2026-03-29": 129,
